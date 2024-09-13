@@ -45,6 +45,7 @@ Apresentar os dados
 
 - [x] Uma lista que contém qualquer tipo de dado
 - [x]  Métodos de array:  push, [find, forEach, filter, map]: HOF (Higher Order Functions)
+
 ### Objetos:
 
 - [x] Atributos e métodos
